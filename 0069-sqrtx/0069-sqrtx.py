@@ -2,8 +2,17 @@ class Solution:
     def mySqrt(self, x: int) -> int:
         if x==0:
             return 0
-        for i in range(x+1):
-            
-            if i*i==x or ((i*i) < x and x < (i+1)*(i+1)):
-                return i
+        left=0
+        right=x
+        
+        while(left<=right):
+            mid=(left+right)//2
+            if x==mid*mid:
+                return mid
+            if x<mid*mid:
+                right=mid-1
+            elif x>mid*mid:
+                left=mid+1
+
+        return right
         
