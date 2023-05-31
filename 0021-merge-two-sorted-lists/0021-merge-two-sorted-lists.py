@@ -5,48 +5,58 @@
 #         self.next = next
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
-        current1=list1
-        current2=list2
-        temp1=None
-        temp2=None
-        head = None
-        current = None
-        while(True):
-            if current1==None or current2==None:
-                break
-            value = None
-            if current1.val >= current2.val:
-                value = current2.val
-                current2 = current2.next
-            else:
-                value = current1.val
-                current1 = current1.next
-            
-            
-            if head == None:
-                head = ListNode(value, None)
-                current = head
-            else:
-                current.next = ListNode(value, None)
-                current = current.next
         
-        while(current1!=None):
-            if head == None:
-                head = ListNode(current1.val, None)
-                current = head
+        
+        head=None
+        while(list1 and list2):
+            if list1.val > list2.val:
+                if head == None:
+                    head = ListNode(list2.val, None)
+                    
+                else:
+                    current = head
+                    while(current.next!=None):
+                        
+                        current = current.next
+                    current.next = ListNode(list2.val, None)
+                    
+                list2=list2.next
+                
             else:
-                current.next = ListNode(current1.val, None)
-                current = current.next
-            current1 = current1.next
+                if head == None:
+                    head = ListNode(list1.val, None)
+                    
+                else:
+                    current = head
+                    while(current.next!=None):
+                        
+                        current = current.next
+                    current.next = ListNode(list1.val, None)
+                    
+                list1=list1.next
+                    
             
-        while(current2!=None):
+        while(list1):
             if head == None:
-                head = ListNode(current2.val, None)
-                current = head
+                head = ListNode(list1.val, None)
+                
             else:
-                current.next = ListNode(current2.val, None)
-                current = current.next
-            current2 = current2.next
+                current = head
+                while(current.next!=None):
+                    current = current.next
+                current.next = ListNode(list1.val, None)
+            list1=list1.next
+                    
+        while(list2):
+            if head == None:
+                head = ListNode(list2.val, None)
+                
+            else:
+                current = head
+                while(current.next!=None):
+                    current = current.next
+                current.next = ListNode(list2.val, None)
+            list2=list2.next
             
         return head
             
