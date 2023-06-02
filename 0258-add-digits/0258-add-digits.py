@@ -3,9 +3,8 @@ class Solution:
         x=0
         y=0
         while(num>9):
-            x=num%10
-            y=num//10
-            num=x+y
+            
+            num=num%10 + num//10
           
         
         return num
