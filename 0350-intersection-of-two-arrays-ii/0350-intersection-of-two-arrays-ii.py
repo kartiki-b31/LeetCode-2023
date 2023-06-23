@@ -21,8 +21,8 @@ class Solution:
         for i in cnt1:
             if i in cnt2:
                 mini=min(cnt1[i],cnt2[i])
-                for j in range(mini):
-                    ans.append(i)
+                
+                ans.extend([i]*mini)
             
         
         return ans
