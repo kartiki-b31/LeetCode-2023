@@ -10,8 +10,8 @@ class KthLargest:
     def add(self, val: int) -> int:
         
         self.nums.add(val)
-        sc=sorted(self.nums,reverse=True)
-        return sc[self.k -1]
+        
+        return self.nums[-self.k]
         
         
         
