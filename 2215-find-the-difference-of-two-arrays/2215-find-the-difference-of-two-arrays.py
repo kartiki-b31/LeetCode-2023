@@ -8,6 +8,10 @@ class Solution:
         
         test_nums1 = list(set(nums1))
         test_nums2 = list(set(nums2))
+        # print(test_nums1)
+        # print(test_nums2)
+        # print(list(set(nums1)-set(nums2)))
+        # print(list(set(nums2)-set(nums1)))
         
         for i in range(len(test_nums1)):
             if test_nums1[i] not in test_nums2:
@@ -28,5 +32,5 @@ class Solution:
         
         
         
-        return answer
+        return list(set(nums1)-set(nums2)),list(set(nums2)-set(nums1))
        
