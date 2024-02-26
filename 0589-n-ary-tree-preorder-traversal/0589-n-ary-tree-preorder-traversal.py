@@ -12,9 +12,12 @@ class Solution:
     def preorder(self, root: 'Node') -> List[int]:
         if root==None:
             return None
+        
         self.arr.append(root.val)
+        #print(len(root.children))
         for i in range(len(root.children)):
             self.preorder(root.children[i])
-            
+        
         return self.arr
+        
         
