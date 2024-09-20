@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1304-longest-happy-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1304-longest-happy-string) |
+## Array
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0051-n-queens) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
