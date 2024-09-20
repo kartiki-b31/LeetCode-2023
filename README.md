@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0012-integer-to-roman) |
 | [1304-longest-happy-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1304-longest-happy-string) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Greedy
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0051-n-queens) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 <!---LeetCode Topics End-->
