@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0386-lexicographical-numbers) |
+| [0545-boundary-of-binary-tree](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0545-boundary-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0975-range-sum-of-bst) |
 ## Trie
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0545-boundary-of-binary-tree](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0545-boundary-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -118,5 +120,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0545-boundary-of-binary-tree](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0545-boundary-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
