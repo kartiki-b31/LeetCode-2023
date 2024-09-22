@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0948-sort-an-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0948-sort-an-array) |
 | [1331-path-with-maximum-gold](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1331-path-with-maximum-gold) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1335-maximum-candies-allocated-to-k-children) |
 ## Backtracking
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0975-range-sum-of-bst](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0975-range-sum-of-bst) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1335-maximum-candies-allocated-to-k-children) |
 ## Binary Tree
 |  |
 | ------- |
