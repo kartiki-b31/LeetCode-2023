@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0189-rotate-array) |
+| [3567-convert-date-to-binary](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3567-convert-date-to-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0214-shortest-palindrome) |
 | [1304-longest-happy-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1304-longest-happy-string) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [3567-convert-date-to-binary](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3567-convert-date-to-binary) |
 ## Greedy
 |  |
 | ------- |
