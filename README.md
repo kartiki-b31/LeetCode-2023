@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0189-rotate-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0948-sort-an-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0948-sort-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0074-search-a-2d-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1331-path-with-maximum-gold) |
 ## Divide and Conquer
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0074-search-a-2d-matrix) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0755-reach-a-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0755-reach-a-number) |
 | [0975-range-sum-of-bst](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0975-range-sum-of-bst) |
