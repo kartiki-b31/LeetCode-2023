@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0189-rotate-array) |
+| [0755-reach-a-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0755-reach-a-number) |
 | [3567-convert-date-to-binary](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3567-convert-date-to-binary) |
 ## Recursion
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0035-search-insert-position) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0755-reach-a-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0755-reach-a-number) |
 | [0975-range-sum-of-bst](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0975-range-sum-of-bst) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1335-maximum-candies-allocated-to-k-children) |
 ## Binary Tree
