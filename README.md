@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0055-jump-game) |
 | [1304-longest-happy-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1304-longest-happy-string) |
 ## Heap (Priority Queue)
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0074-search-a-2d-matrix) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0055-jump-game) |
 ## Design
 |  |
