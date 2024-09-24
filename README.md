@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0020-valid-parentheses) |
 | [0214-shortest-palindrome](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0214-shortest-palindrome) |
 | [0952-word-subsets](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0952-word-subsets) |
 | [1304-longest-happy-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1304-longest-happy-string) |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1803-average-waiting-time](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1803-average-waiting-time) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
