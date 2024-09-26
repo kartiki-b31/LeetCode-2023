@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0496-next-greater-element-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0503-next-greater-element-ii) |
 | [0948-sort-an-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0952-word-subsets) |
 | [1331-path-with-maximum-gold](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1331-path-with-maximum-gold) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1078-remove-outermost-parentheses) |
 ## Quickselect
 |  |
@@ -251,4 +253,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
