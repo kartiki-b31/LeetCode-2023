@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0496-next-greater-element-i) |
 | [0952-word-subsets](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0952-word-subsets) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0496-next-greater-element-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0496-next-greater-element-i) |
 | [0948-sort-an-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0952-word-subsets) |
 | [1331-path-with-maximum-gold](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1331-path-with-maximum-gold) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1078-remove-outermost-parentheses) |
 ## Quickselect
 |  |
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2914-find-the-safest-path-in-a-grid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
