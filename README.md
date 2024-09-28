@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0055-jump-game) |
 | [1304-longest-happy-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1304-longest-happy-string) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0035-search-insert-position) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0189-rotate-array) |
 ## Rolling Hash
