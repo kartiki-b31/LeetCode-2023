@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0189-rotate-array) |
 ## Rolling Hash
 |  |
