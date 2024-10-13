@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0496-next-greater-element-i) |
 | [0952-word-subsets](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0952-word-subsets) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2475-largest-palindromic-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2475-largest-palindromic-number) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-path-with-maximum-gold](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1331-path-with-maximum-gold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1394-minimum-path-cost-in-a-grid) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1803-average-waiting-time](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1803-average-waiting-time) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1036-rotting-oranges) |
 | [1331-path-with-maximum-gold](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1331-path-with-maximum-gold) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1394-minimum-path-cost-in-a-grid) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1803-average-waiting-time](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1803-average-waiting-time) |
 ## Stack
 |  |
