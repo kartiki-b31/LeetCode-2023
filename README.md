@@ -240,10 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0225-implement-stack-using-queues) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0225-implement-stack-using-queues) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1078-remove-outermost-parentheses) |
