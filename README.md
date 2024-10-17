@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0189-rotate-array) |
+| [0670-maximum-swap](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0670-maximum-swap) |
 | [0755-reach-a-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0755-reach-a-number) |
 | [3567-convert-date-to-binary](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3567-convert-date-to-binary) |
 ## Recursion
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0055-jump-game) |
+| [0670-maximum-swap](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0680-valid-palindrome-ii) |
 | [1304-longest-happy-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1304-longest-happy-string) |
 | [2475-largest-palindromic-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2475-largest-palindromic-number) |
