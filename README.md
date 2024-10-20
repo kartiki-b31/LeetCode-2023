@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0051-n-queens) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0052-n-queens-ii) |
 | [1331-path-with-maximum-gold](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1331-path-with-maximum-gold) |
