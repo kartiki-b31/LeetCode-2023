@@ -14,10 +14,5 @@ class Solution:
         for i in range(totalIdx, len(candidates)):
             if i > totalIdx and candidates[i] == candidates[i - 1]:
                 continue
-            self.backtrack(
-                candidates,
-                target - candidates[i],
-                i + 1,
-                path + [candidates[i]],
-                answer,
-            )
+            self.backtrack(candidates,
+                target - candidates[i],i + 1,path + [candidates[i]],answer,)
