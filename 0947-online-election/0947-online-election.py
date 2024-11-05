@@ -1,6 +1,5 @@
 from collections import defaultdict
 class TopVotedCandidate:
-    #d={0:}
     def __init__(self, persons: List[int], times: List[int]):
         self.winners = []
         self.times = times
