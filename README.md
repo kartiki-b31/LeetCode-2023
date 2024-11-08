@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0386-lexicographical-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0545-boundary-of-binary-tree](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0545-boundary-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0975-range-sum-of-bst) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0545-boundary-of-binary-tree](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0545-boundary-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0975-range-sum-of-bst) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0545-boundary-of-binary-tree](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0545-boundary-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0975-range-sum-of-bst) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0286-walls-and-gates](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0286-walls-and-gates) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1036-rotting-oranges) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2914-find-the-safest-path-in-a-grid) |
