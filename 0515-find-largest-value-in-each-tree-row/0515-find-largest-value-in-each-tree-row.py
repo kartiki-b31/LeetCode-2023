@@ -4,36 +4,28 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-from collections import deque
 class Solution:
     def largestValues(self, root: Optional[TreeNode]) -> List[int]:
         if root==None:
             return []
         
         q=deque()
-        level=[]
+        visited=set()
         max_ele=0
-        level2=[]
-        q.append(root)
         res=[]
-        res.append(root.val)
+        ans=0
+        arr=[]
 
-        while q:
-            level=[]
-            level2=[]
-            for current in q:
-                if current.left:
-                    level.append(current.left)
-                    level2.append(current.left.val)
-                if current.right:
-                    level.append(current.right)
-                    level2.append(current.right.val)
-            
-            if len(level2)>0: 
-                max_ele=max(level2)
-                res.append(max_ele)
-            q=level
-        
-        return res
+        def bfs(node,level):
+            if len(arr)<level:
+                arr.append(float('-inf'))
+            arr[level-1]=max(arr[level-1],node.val)
+            if node.left:
+                bfs(node.left,level+1)
 
+            if node.right:
+                bfs(node.right,level+1)   
+                
+        bfs(root,1)
 
+        return arr
