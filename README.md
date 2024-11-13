@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0496-next-greater-element-i) |
+| [0829-subdomain-visit-count](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0829-subdomain-visit-count) |
 | [0947-online-election](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0947-online-election) |
 | [0952-word-subsets](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0952-word-subsets) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0680-valid-palindrome-ii) |
+| [0829-subdomain-visit-count](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0829-subdomain-visit-count) |
 | [0952-word-subsets](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1078-remove-outermost-parentheses) |
 | [1304-longest-happy-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1304-longest-happy-string) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0496-next-greater-element-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0503-next-greater-element-ii) |
+| [0829-subdomain-visit-count](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0829-subdomain-visit-count) |
 | [0947-online-election](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0947-online-election) |
 | [0948-sort-an-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0952-word-subsets) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0451-sort-characters-by-frequency) |
+| [0829-subdomain-visit-count](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0829-subdomain-visit-count) |
 | [0948-sort-an-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0948-sort-an-array) |
 | [2475-largest-palindromic-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2475-largest-palindromic-number) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
