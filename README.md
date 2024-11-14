@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0496-next-greater-element-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0503-next-greater-element-ii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0829-subdomain-visit-count](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0829-subdomain-visit-count) |
 | [0947-online-election](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0947-online-election) |
 | [0948-sort-an-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0948-sort-an-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0214-shortest-palindrome) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0214-shortest-palindrome) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0755-reach-a-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0755-reach-a-number) |
 | [0947-online-election](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0947-online-election) |
 | [0975-range-sum-of-bst](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0975-range-sum-of-bst) |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0650-2-keys-keyboard](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0650-2-keys-keyboard) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1394-minimum-path-cost-in-a-grid) |
 ## Design
 |  |
@@ -327,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Union Find
 |  |
 | ------- |
