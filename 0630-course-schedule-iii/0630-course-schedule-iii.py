@@ -15,10 +15,19 @@ class Solution:
             if t<=courses[i][1]:
                 heappush(maxHeap,-courses[i][0])
                 heapq.heapify(maxHeap)
-            else:
-                break
-        print(t)
-        print(maxHeap)
+                #print(t)
+            elif t>courses[i][1]:
+                #print(t)
+                #print(courses[i][1])
+                heappush(maxHeap,-courses[i][0])
+                t=t+heapq.heappop(maxHeap)
+                heapq.heapify(maxHeap)
+                #print(maxHeap)
+
+                
+        #print(t)
+        #print(maxHeap)
+        #print(-heapq.heappop(maxHeap))
         
 
         return len(maxHeap)
