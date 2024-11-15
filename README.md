@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0207-course-schedule) |
 | [0386-lexicographical-numbers](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0545-boundary-of-binary-tree](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0545-boundary-of-binary-tree) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0207-course-schedule) |
 | [0286-walls-and-gates](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0286-walls-and-gates) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -350,4 +352,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0062-unique-paths) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
