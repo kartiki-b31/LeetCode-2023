@@ -4,7 +4,7 @@ class Solution:
     def scheduleCourse(self, courses: List[List[int]]) -> int:
 
         courses.sort(key=lambda x:x[1])
-        print(courses)
+        #print(courses)
 
         maxHeap=[]
         nums=[100,1000,200,2000]
