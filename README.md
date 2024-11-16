@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0412-fizz-buzz) |
 | [0650-2-keys-keyboard](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0650-2-keys-keyboard) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0224-basic-calculator) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0503-next-greater-element-ii) |
