@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0496-next-greater-element-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0451-sort-characters-by-frequency) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0451-sort-characters-by-frequency) |
 | [0829-subdomain-visit-count](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0829-subdomain-visit-count) |
 | [0948-sort-an-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0948-sort-an-array) |
