@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0503-next-greater-element-ii) |
 | [0630-course-schedule-iii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0630-course-schedule-iii) |
+| [0643-maximum-average-subarray-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0724-find-pivot-index) |
 | [0829-subdomain-visit-count](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0829-subdomain-visit-count) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Union Find
 |  |
