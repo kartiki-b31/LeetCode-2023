@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-minimum-path-cost-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1803-average-waiting-time](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1803-average-waiting-time) |
+| [1972-rotating-the-box](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1972-rotating-the-box) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-path-with-maximum-gold](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1331-path-with-maximum-gold) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1972-rotating-the-box](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1972-rotating-the-box) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0908-middle-of-the-linked-list) |
+| [1972-rotating-the-box](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1972-rotating-the-box) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Rolling Hash
