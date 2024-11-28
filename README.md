@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0283-move-zeroes) |
 | [0286-walls-and-gates](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0286-walls-and-gates) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0487-max-consecutive-ones-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0487-max-consecutive-ones-ii) |
 | [0496-next-greater-element-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0503-next-greater-element-ii) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0487-max-consecutive-ones-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0487-max-consecutive-ones-ii) |
 | [0650-2-keys-keyboard](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0650-2-keys-keyboard) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1394-minimum-path-cost-in-a-grid) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0487-max-consecutive-ones-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0487-max-consecutive-ones-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Union Find
