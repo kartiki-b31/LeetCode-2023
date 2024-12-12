@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0630-course-schedule-iii) |
 | [0948-sort-an-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1304-longest-happy-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Array
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1972-rotating-the-box) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3221-find-the-peaks](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3221-find-the-peaks) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0983-validate-stack-sequences) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1803-average-waiting-time](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1803-average-waiting-time) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Stack
 |  |
 | ------- |
