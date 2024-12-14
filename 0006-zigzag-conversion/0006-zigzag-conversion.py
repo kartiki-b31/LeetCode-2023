@@ -1,22 +1,13 @@
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
-        currow=0
-        step=1
-        list=['']*numRows
         if numRows==1:
             return s
-        
-        for i in s:
-            list[currow]+=i
-            if currow==numRows-1:
-                step=-1
-            elif currow==0:
-                step=1
-            currow+=step
-        
         res=""
-        for i in range(len(list)):
-            res+=list[i]
-        
+        for r in range(numRows):
+            increment=2*(numRows-1)
+            for i in range(r,len(s),increment):
+                res+=s[i]
+                if (r>0 and r<numRows-1 and i+increment-2*r<len(s)):
+                    res+=s[i+increment-2*r]
         return res
-            
+
