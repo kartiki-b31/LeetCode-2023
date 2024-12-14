@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2475-largest-palindromic-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2475-largest-palindromic-number) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3567-convert-date-to-binary](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3567-convert-date-to-binary) |
 ## Greedy
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1972-rotating-the-box) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2475-largest-palindromic-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2475-largest-palindromic-number) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Two Pointers
 |  |
 | ------- |
