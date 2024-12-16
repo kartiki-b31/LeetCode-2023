@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0670-maximum-swap) |
 | [0755-reach-a-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0755-reach-a-number) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3567-convert-date-to-binary) |
 ## Recursion
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1304-longest-happy-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3221-find-the-peaks](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3221-find-the-peaks) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1803-average-waiting-time) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
 | ------- |
