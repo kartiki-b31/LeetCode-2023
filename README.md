@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0268-missing-number) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0198-house-robber) |
 | [0487-max-consecutive-ones-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0487-max-consecutive-ones-ii) |
 | [0650-2-keys-keyboard](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0650-2-keys-keyboard) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0718-maximum-length-of-repeated-subarray) |
