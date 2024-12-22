@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0545-boundary-of-binary-tree](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0545-boundary-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0975-range-sum-of-bst) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0545-boundary-of-binary-tree](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0545-boundary-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0975-range-sum-of-bst) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0545-boundary-of-binary-tree](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0545-boundary-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0975-range-sum-of-bst) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1036-rotting-oranges) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Simulation
 |  |
