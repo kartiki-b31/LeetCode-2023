@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0952-word-subsets) |
 | [0983-validate-stack-sequences](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0983-validate-stack-sequences) |
 | [1036-rotting-oranges](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1036-rotting-oranges) |
+| [1063-best-sightseeing-pair](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1063-best-sightseeing-pair) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1331-path-with-maximum-gold](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1331-path-with-maximum-gold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0487-max-consecutive-ones-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0487-max-consecutive-ones-ii) |
 | [0650-2-keys-keyboard](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0650-2-keys-keyboard) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1063-best-sightseeing-pair](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1063-best-sightseeing-pair) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1394-minimum-path-cost-in-a-grid) |
 ## Design
 |  |
