@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0952-word-subsets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1547-destination-city](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1547-destination-city) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2475-largest-palindromic-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2475-largest-palindromic-number) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1304-longest-happy-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1304-longest-happy-string) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1547-destination-city](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1547-destination-city) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2475-largest-palindromic-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2475-largest-palindromic-number) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1547-destination-city](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1547-destination-city) |
 | [1803-average-waiting-time](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1803-average-waiting-time) |
 | [1972-rotating-the-box](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1972-rotating-the-box) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2231-find-first-palindromic-string-in-the-array) |
