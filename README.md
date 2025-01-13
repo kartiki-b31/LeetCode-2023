@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0169-majority-element) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0242-valid-anagram](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0383-ransom-note) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0169-majority-element) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0189-rotate-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0215-kth-largest-element-in-an-array) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0125-valid-palindrome) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0189-rotate-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0189-rotate-array) |
 | [0253-meeting-rooms-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0283-move-zeroes) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0225-implement-stack-using-queues](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0225-implement-stack-using-queues) |
 | [0947-online-election](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0947-online-election) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0170-two-sum-iii-data-structure-design) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Breadth-First Search
 |  |
