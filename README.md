@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0496-next-greater-element-i) |
 | [0677-map-sum-pairs](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0677-map-sum-pairs) |
+| [0778-reorganize-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0778-reorganize-string) |
 | [0829-subdomain-visit-count](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0829-subdomain-visit-count) |
 | [0947-online-election](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0947-online-election) |
 | [0952-word-subsets](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0952-word-subsets) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0677-map-sum-pairs](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0677-map-sum-pairs) |
 | [0680-valid-palindrome-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0778-reorganize-string) |
 | [0829-subdomain-visit-count](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0829-subdomain-visit-count) |
 | [0952-word-subsets](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1078-remove-outermost-parentheses) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0630-course-schedule-iii) |
 | [0670-maximum-swap](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0778-reorganize-string) |
 | [1304-longest-happy-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1304-longest-happy-string) |
 | [2475-largest-palindromic-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2475-largest-palindromic-number) |
 ## Heap (Priority Queue)
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0253-meeting-rooms-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0451-sort-characters-by-frequency) |
 | [0630-course-schedule-iii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0630-course-schedule-iii) |
+| [0778-reorganize-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1304-longest-happy-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0451-sort-characters-by-frequency) |
 | [0630-course-schedule-iii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0630-course-schedule-iii) |
+| [0778-reorganize-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0948-sort-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Merge Sort
@@ -241,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0451-sort-characters-by-frequency) |
+| [0778-reorganize-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0778-reorganize-string) |
 | [0829-subdomain-visit-count](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0829-subdomain-visit-count) |
 | [0948-sort-an-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0948-sort-an-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1112-find-words-that-can-be-formed-by-characters) |
