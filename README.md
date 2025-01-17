@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1547-destination-city) |
 | [1803-average-waiting-time](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1803-average-waiting-time) |
 | [1972-rotating-the-box](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1972-rotating-the-box) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-online-election](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0947-online-election) |
 | [0975-range-sum-of-bst](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0975-range-sum-of-bst) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
