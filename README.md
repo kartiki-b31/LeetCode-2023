@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3221-find-the-peaks](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3221-find-the-peaks) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3463-alternating-groups-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3463-alternating-groups-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
 |  |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0487-max-consecutive-ones-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0487-max-consecutive-ones-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3463-alternating-groups-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3463-alternating-groups-i) |
 ## Union Find
 |  |
 | ------- |
