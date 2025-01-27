@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0170-two-sum-iii-data-structure-design](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0189-rotate-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0268-missing-number) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0286-walls-and-gates) |
 | [0498-diagonal-traverse](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0498-diagonal-traverse) |
 | [1036-rotting-oranges](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1036-rotting-oranges) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0386-lexicographical-numbers) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0210-course-schedule-ii) |
 | [0286-walls-and-gates](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0286-walls-and-gates) |
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0200-number-of-islands) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Monotonic Stack
 |  |
