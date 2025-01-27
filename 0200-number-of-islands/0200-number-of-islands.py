@@ -1,30 +1,38 @@
+from collections import deque 
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        if not grid:
-            return 0
+        n=len(grid)
+        m=len(grid[0])
+
+        direc=[(0,1),(1,0),(0,-1),(-1,0)]
         
-        rows,cols =len(grid), len(grid[0])
-        visit=set()
-        island=0
-        
-        def bfs(r,c):
-            q=collections.deque()
-            visit.add((r,c))
-            q.append((r,c))
-            while q:
-                row, col =q.popleft()
-                directions =[[1,0],[-1,0],[0,1],[0,-1]]
+        def bfs(i,j,visited):
+            q.append([i,j])
+            
+            while len(q)>0:
+                [x,y]=q.popleft()
+
+                if (x,y) not in visited:
+                    visited.add((i,j))
                 
-                for dr,dc in directions:
-                    r,c =row+dr,col+dc
-                    if (r in range(rows) and c in range(cols) and grid[r][c]=="1" and (r,c) not in visit):
-                        q.append((r,c))
-                        visit.add((r,c))
-        for r in range(rows):
-            for c in range(cols):
-                if grid[r][c]=="1" and (r,c) not in visit:
-                    bfs(r,c)
-                    island+=1
-                    
-        return island
-        
+                for dx,dy in direc:
+                    nx=dx+x
+                    ny=dy+y
+                    if 0<=nx<n and 0<=ny<m and grid[nx][ny]=="1" and (nx,ny) not in visited:
+                        q.append([nx,ny])
+                        visited.add((nx,ny))
+            return
+
+
+        count=0
+        visited=set()
+        q=deque()
+        for i in range(n):
+            for j in range(m):
+                if grid[i][j]=="1" and (i,j) not in visited:
+                    #q.append([i,j])
+                    bfs(i,j,visited)
+                    count+=1
+
+
+        return count
