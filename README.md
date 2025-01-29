@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0130-surrounded-regions](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0169-majority-element) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0170-two-sum-iii-data-structure-design) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0286-walls-and-gates) |
 | [0498-diagonal-traverse](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0498-diagonal-traverse) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0210-course-schedule-ii) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0102-binary-tree-level-order-traversal) |
+| [0130-surrounded-regions](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0210-course-schedule-ii) |
@@ -436,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0200-number-of-islands) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Monotonic Stack
