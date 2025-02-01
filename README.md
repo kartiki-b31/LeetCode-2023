@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0130-surrounded-regions) |
@@ -185,11 +186,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0079-word-search) |
 | [1331-path-with-maximum-gold](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1331-path-with-maximum-gold) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0078-subsets) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0268-missing-number) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
