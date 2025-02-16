@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0412-fizz-buzz) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0169-majority-element) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0202-happy-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0383-ransom-note) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0125-valid-palindrome) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0189-rotate-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0202-happy-number) |
 | [0253-meeting-rooms-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0443-string-compression) |
