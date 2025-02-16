@@ -1,19 +1,25 @@
 class Solution:
     def compress(self, chars: List[str]) -> int:
-        stack=[] #(char,freq)
-        for char in chars:
-            if stack and stack[-1][0]==char:
-                stack[-1]=(char,stack[-1][1]+1)
-            else:
-                stack.append((char,1))
-        
-        print(stack)
-        ans=0
-        for char, count in stack:
-            chars[ans]=char
-            ans+=1
+        idx=0 #to modify char in place
+        n=len(chars)
+        i=0 #pointer to traverse through chars
+        while i<n:
+            char=chars[i]
+            count=0
+            #count consecutive occurrance of chars[i]
+            for j in range(i,n):
+                if chars[j]==char:
+                    count+=1
+                else:
+                    break
+            chars[idx]=char
+            idx+=1
+
             if count>1:
                 for digit in str(count):
-                    chars[ans]=digit
-                    ans+=1
-        return ans
+                    chars[idx]=digit
+                    idx+=1
+            i+=count
+        return idx
+
+
