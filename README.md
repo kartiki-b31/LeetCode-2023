@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0496-next-greater-element-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0443-string-compression) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0778-reorganize-string) |
 | [0829-subdomain-visit-count](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0829-subdomain-visit-count) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0387-first-unique-character-in-a-string) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
 |  |
