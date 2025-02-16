@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0412-fizz-buzz) |
 | [0650-2-keys-keyboard](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0670-maximum-swap) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0224-basic-calculator) |
+| [0326-power-of-three](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
