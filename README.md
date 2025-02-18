@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3221-find-the-peaks](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3221-find-the-peaks) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3463-alternating-groups-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3463-alternating-groups-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
