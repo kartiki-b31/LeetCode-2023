@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0169-majority-element) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0202-happy-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0202-happy-number) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0169-majority-element) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0200-number-of-islands) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2914-find-the-safest-path-in-a-grid) |
