@@ -11,13 +11,11 @@ class Solution:
         length = 0
         prev = -1
         for num in nums:
-            if prev + 1 == num:
+            if (num-prev)==1:
                 length += 1
             else:
-                if length > longest:
-                    longest = length
-                length = 1
+                
+                length=1
             prev = num
-        if length > longest:
-            longest = length
+            longest=max(longest,length)
         return longest
