@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0086-partition-list) |
 | [0908-middle-of-the-linked-list](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0908-middle-of-the-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0031-next-permutation) |
+| [0086-partition-list](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0125-valid-palindrome) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0189-rotate-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0189-rotate-array) |
