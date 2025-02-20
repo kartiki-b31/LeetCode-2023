@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0778-reorganize-string) |
 | [1304-longest-happy-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1304-longest-happy-string) |
+| [1961-maximum-ice-cream-bars](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1961-maximum-ice-cream-bars) |
 | [2475-largest-palindromic-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2475-largest-palindromic-number) |
 ## Heap (Priority Queue)
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1547-destination-city](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1547-destination-city) |
 | [1803-average-waiting-time](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1803-average-waiting-time) |
+| [1961-maximum-ice-cream-bars](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1961-maximum-ice-cream-bars) |
 | [1972-rotating-the-box](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1972-rotating-the-box) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0630-course-schedule-iii) |
 | [0778-reorganize-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0948-sort-an-array) |
+| [1961-maximum-ice-cream-bars](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1961-maximum-ice-cream-bars) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Merge Sort
 |  |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0829-subdomain-visit-count) |
 | [0948-sort-an-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0948-sort-an-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1961-maximum-ice-cream-bars](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1961-maximum-ice-cream-bars) |
 | [2475-largest-palindromic-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2475-largest-palindromic-number) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
