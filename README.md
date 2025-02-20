@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0829-subdomain-visit-count) |
 | [0947-online-election](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0947-online-election) |
 | [0952-word-subsets](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0952-word-subsets) |
+| [1074-high-five](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1074-high-five) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1547-destination-city](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1547-destination-city) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0630-course-schedule-iii) |
 | [0778-reorganize-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0948-sort-an-array) |
+| [1074-high-five](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1074-high-five) |
 | [1304-longest-happy-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1304-longest-happy-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0983-validate-stack-sequences) |
 | [1036-rotting-oranges](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1063-best-sightseeing-pair) |
+| [1074-high-five](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1074-high-five) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1331-path-with-maximum-gold](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1331-path-with-maximum-gold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0630-course-schedule-iii) |
 | [0778-reorganize-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0948-sort-an-array) |
+| [1074-high-five](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1074-high-five) |
 | [1961-maximum-ice-cream-bars](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1961-maximum-ice-cream-bars) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Merge Sort
