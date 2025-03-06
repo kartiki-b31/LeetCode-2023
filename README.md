@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0948-sort-an-array) |
 | [1074-high-five](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1074-high-five) |
 | [1304-longest-happy-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1304-longest-happy-string) |
+| [1325-path-with-maximum-probability](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1325-path-with-maximum-probability) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1063-best-sightseeing-pair) |
 | [1074-high-five](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1074-high-five) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1325-path-with-maximum-probability](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1325-path-with-maximum-probability) |
 | [1331-path-with-maximum-gold](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1331-path-with-maximum-gold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1394-minimum-path-cost-in-a-grid) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0210-course-schedule-ii) |
+| [1325-path-with-maximum-probability](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1325-path-with-maximum-probability) |
 ## Topological Sort
 |  |
 | ------- |
@@ -509,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0253-meeting-rooms-ii) |
 | [0724-find-pivot-index](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0724-find-pivot-index) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
