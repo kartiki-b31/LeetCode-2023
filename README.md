@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0952-word-subsets) |
 | [1074-high-five](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1074-high-five) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1125-design-file-system](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1125-design-file-system) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1547-destination-city](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1547-destination-city) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1125-design-file-system](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1125-design-file-system) |
 | [1304-longest-happy-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1304-longest-happy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0386-lexicographical-numbers) |
 | [0677-map-sum-pairs](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0677-map-sum-pairs) |
+| [1125-design-file-system](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1125-design-file-system) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kartiki-b31/LeetCode-2023/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Tree
 |  |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0225-implement-stack-using-queues) |
 | [0677-map-sum-pairs](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0677-map-sum-pairs) |
 | [0947-online-election](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0947-online-election) |
+| [1125-design-file-system](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1125-design-file-system) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Queue
 |  |
