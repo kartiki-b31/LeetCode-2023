@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1547-destination-city](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1547-destination-city) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2475-largest-palindromic-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2475-largest-palindromic-number) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1304-longest-happy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1961-maximum-ice-cream-bars](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1961-maximum-ice-cream-bars) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2475-largest-palindromic-number](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2475-largest-palindromic-number) |
 ## Heap (Priority Queue)
 |  |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0908-middle-of-the-linked-list) |
 | [1972-rotating-the-box](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1972-rotating-the-box) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Rolling Hash
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0503-next-greater-element-ii) |
 | [0983-validate-stack-sequences](https://github.com/kartiki-b31/LeetCode-2023/tree/master/0983-validate-stack-sequences) |
 | [1078-remove-outermost-parentheses](https://github.com/kartiki-b31/LeetCode-2023/tree/master/1078-remove-outermost-parentheses) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kartiki-b31/LeetCode-2023/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Quickselect
 |  |
